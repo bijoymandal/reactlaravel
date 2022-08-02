@@ -1,0 +1,5 @@
+////////////********************* react command **********************/
+1. npm react-create-app project_name
+
+/******************************** laravel package and command ***************/
+1.composer create-project laravel/laravel project_name
